@@ -2,10 +2,6 @@
 
 <h1 align="center"> Danieli Nascimento</h1>
 
-
-
-<p align="center"> Tecnologias </p>
-
 <br>
 
 <p align="center">
